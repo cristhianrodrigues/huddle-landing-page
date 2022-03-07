@@ -1,6 +1,6 @@
 # huddle-landing-page
 
-Esse é mais um projeto/desafio que eu tirei do site www.frontendmentor.io, mas fiz ele de uma forma um pouco diferente, a construção dele é feita com mobile first, e gostei do resultado obtido nesse desafio, cada vez mais estou progredindo nos meus estudo em programação Front-End.
+Esse é mais um projeto/desafio que eu tirei do site www.frontendmentor.io, mas fiz ele de uma forma um pouco diferente, a construção dele é feita como o metodo mobile first, fiquei feliz com o resultado obtido nesse desafio, cada vez mais estou progredindo nos meus estudo em programação Front-End, este projeto foi feito em HTML e CSS.
 
 Esse projeto pode ser testado em um navegador acessando esse link: https://cristhianrodrigues.github.io/huddle-landing-page/
 
